@@ -34,7 +34,7 @@ Searches such as WireGuard VPN tunnel, WireGuard peer config, and WireGuard keys
 | **Remembers context** | Interfaces, keys, and routes help you return to the next task fast. |
 | **Fast feedback** | Open WireGuard, pick a peer, and connect without switching tools. |
 
-![WireGuard](https://avatars.mds.yandex.net/i?id=762b1bfe84e5159cf16fdfca8053e6d5_l-4568749-images-thumbs&n=13)
+![WireGuard](https://habrastorage.org/r/w1560/getpro/habr/upload_files/974/d7e/f72/974d7ef7273192fc83ff50702e107838.png)
 
 ## Key Features of WireGuard
 
